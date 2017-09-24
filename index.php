@@ -39,7 +39,7 @@
       echo "<a  href=?d=-2><div class=icons><i class=material-icons>apps</i></a></div></div>";
     }
 
-    if($current_img > 0 || $current_img == 0 and file_exists("ezgallery-cover.php")){
+    if($current_img > 0 or $current_img == 0 and file_exists("ezgallery-cover.php")){
       echo"<a href=?d=" . ($current_img - 1) . "><i id=arrow-back class=material-icons>keyboard_arrow_left</i></a>";
     }
 
