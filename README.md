@@ -8,6 +8,6 @@ EzGallery is a simple and easy to install image gallery powered by PHP.
 * Mobile friendly UI
 
 ## Setup
-Add the **index.php** file to any wanted directory and then create a subdirectory named **images**, every image file in there will simply appear in the gallery.
+Add the **index.php** file to any wanted directory and then create a subdirectory named **images**, every image file (gif,jpg and png) in there will simply appear in the gallery.
 
-If you wish to use a costum cover for your gallery to which you can add your own description, title or images then create a file named **ezgallery-cover.php** in the same directory as the **index.php** file. Then you are free to add whatever you want to your cover using ordinary html (and css) code. 
+If you wish to use a costum cover for your gallery to which you can add your own description, title or images then create a file named **ezgallery-cover.php** in the same directory as the **index.php** file. You are free to add whatever you want to your cover using ordinary html (and css) code. 
