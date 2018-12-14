@@ -1,5 +1,6 @@
 # EzGallery
 EzGallery is a simple and easy to install image gallery powered by PHP.
+(Heads-up: you should probably not use this, this was just built for training purposes)
 
 ## Features
 * A simple one file setup
